@@ -215,3 +215,17 @@ These are repositories that are themselves curated lists of even more resources.
 | **[Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)** | A massive list of resources for all things computer vision. |
 | **[Awesome-LLM-Agents](https://github.com/agi-patterns/awesome-llm-agents)** | A list of tools and projects for building LLM-powered agents. |
 | **[Awesome Data Science](https://github.com/academic/awesome-datascience)** | A curated list of data science resources, including books, tools, and tutorials. |
+
+# Contributing to The Ultimate List of Free AI Resources
+
+Thank you for your interest in contributing! We welcome any additions that can make this list even better.
+
+## How to Add a New Tool or Repository
+
+1.  **Fork the repository.**
+2.  **Edit the `README.md` file.**
+3.  **Find the appropriate category** for your resource.
+4.  **Add the new resource** to the table, maintaining the alphabetical order and format: `| **[Tool Name](URL)** | A short, clear description. |`
+5.  **Create a pull request** with a descriptive title (e.g., "Add: New tool called XYZ").
+
+Please ensure the tool or repository you're adding has a substantial free tier or is fully open-source. Thank you!
